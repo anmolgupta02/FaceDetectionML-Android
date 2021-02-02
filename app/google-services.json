@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223208501015",
+    "project_id": "letsseethatsmile",
+    "storage_bucket": "letsseethatsmile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223208501015:android:93a27ea52d44f39b7c1152",
+        "android_client_info": {
+          "package_name": "com.example.letsseethatsmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223208501015-9pseg3t5o0j58u6jjl1snrnjt8mlm074.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfINpnb8kz2VVi8M7F-5Bqj06h8OsRgNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223208501015-9pseg3t5o0j58u6jjl1snrnjt8mlm074.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
